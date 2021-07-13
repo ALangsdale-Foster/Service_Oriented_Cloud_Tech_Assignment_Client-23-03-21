@@ -1,4 +1,4 @@
-#ISYS40061 Service-Oriented Cloud Technologies
+### ISYS40061 Service-Oriented Cloud Technologies
 The goal of this coursework is to demonstrate an understanding of using Service Oriented
 Architecture principles in software applications integration. In the first section you will
 utilise web services to compose a travel agency. The travel agency consists of a flight
