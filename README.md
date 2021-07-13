@@ -18,7 +18,6 @@ Client
 Application
 (C#/Java/JSP)
 
-A - Core Web Services (weighting - 30%)
 1. Implement flight booking service
 a) Currently available offers should be held in an XML file based on an XSD schema
 containing: origin city, destination city, airline, available seats, number of
